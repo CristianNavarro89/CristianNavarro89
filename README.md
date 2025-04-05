@@ -1,71 +1,65 @@
-# 🚀 Kyle Daulton – Blockchain Developer  
+# 👨‍💻 Stas Zhalba – Full-Stack & Blockchain Engineer
 
-## 👋 Welcome to My GitHub!  
+## 🚀 Welcome to My GitHub!
 
-I'm a **Blockchain Developer** with **10+ years of experience**, specializing in **decentralized applications (dApps), smart contracts, and blockchain ecosystems**. I have built numerous blockchain projects, ensuring security, scalability, and efficiency in Web3 applications.  
-
-💻 **Currently Working On:**  
-🔹 Developing secure and scalable **dApps** using **Ethereum, Solana, and Polygon**  
-🔹 Crafting high-performance **smart contracts** with Solidity & Rust  
-🔹 Exploring Layer 2 scaling solutions, DeFi protocols, and NFT marketplaces  
+I'm a **Senior Full-Stack & Blockchain Developer** with **10+ years of experience** crafting secure, scalable, and high-performance decentralized applications. From DeFi protocols and NFT marketplaces to smart contracts and AI-integrated blockchain systems — I build the backbone of Web3.
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 🔧 Tech Stack & Specialties
 
-### 🌍 **Blockchain Development**  
-- **Ethereum, Binance Smart Chain (BSC), Polygon, Solana**  
-- **Smart Contracts (Solidity, Rust, WebAssembly)**  
-- **Web3.js, Ethers.js, Moralis**  
-- **IPFS, Arweave, Filecoin**  
+### 🛠️ Blockchain Engineering
+- **Chains**: Ethereum, Solana, Polygon, Binance Smart Chain (BSC)
+- **Smart Contracts**: Solidity, Rust, WebAssembly (WASM)
+- **Tools**: Web3.js, Ethers.js, Moralis, Hardhat, Foundry
+- **Storage**: IPFS, Arweave, Filecoin
+- **Security**: Auditing, Gas Optimization, Automated Testing
 
-### 🔧 **Backend & Infrastructure**  
-- **Node.js, Express.js, Nest.js**  
-- **GraphQL, RESTful APIs**  
-- **Docker, Kubernetes, AWS, Firebase**  
+### 🧠 AI & Web3
+- AI-integrated fraud detection, predictive analytics for DeFi, and ML-enhanced smart contracts.
 
-### 🖥️ **Frontend & Web3 Integration**  
-- **React.js, Next.js, Vue.js**  
-- **TailwindCSS, Material UI, Bootstrap**  
-- **Web3.js, WalletConnect, MetaMask API**  
+### 💻 Full-Stack Development
+- **Frontend**: React.js, Next.js, Vue.js, TailwindCSS, Material UI
+- **Backend**: Node.js, Express, NestJS, GraphQL, REST
+- **Databases**: PostgreSQL, MongoDB
+- **Infrastructure**: AWS, Firebase, Docker, Kubernetes
 
-### 🔒 **Security & DevOps**  
-- **Smart Contract Auditing & Gas Optimization**  
-- **CI/CD Pipelines, GitHub Actions**  
-- **Database Management: PostgreSQL, MongoDB**  
+### ⚙️ DevOps & Productivity
+- CI/CD (GitHub Actions, CircleCI), Linting, Testing Suites, Git Workflow
 
 ---
 
-## 📊 GitHub Stats  
+## 🌟 Highlight Projects
+
+- 🏦 **DeFi Protocol** – Staking, yield farming, governance on Ethereum & Polygon
+- 🖼️ **NFT Marketplace** – Full-stack solution with minting, auctions, and royalties
+- ⚡ **L2 Scaling Solution** – Reduced Ethereum gas fees by 70% with zk-rollups
+- 🗳️ **DAO System** – Smart contract-based voting and treasury control
+- 🤖 **AI + Web3 SaaS** – ML-powered analytics for on-chain activity
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CristianNavarro89&show_icons=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianNavarro89&layout=compact&theme=tokyonight" height="180px"/>
-</p>  
+</p>
 
 ---
 
-## 🚀 Featured Projects  
+## 🎯 Current Goals
 
-🔹 **DeFi Platform** – Built a decentralized finance protocol with staking, yield farming, and governance features.  
-🔹 **NFT Marketplace** – Developed a scalable NFT marketplace with minting, trading, and auction capabilities.  
-🔹 **Layer 2 Scaling Solution** – Implemented a Layer 2 solution for Ethereum transactions, reducing gas fees by 70%.  
-🔹 **DAO Governance System** – Created a decentralized voting system with transparent smart contract execution.  
-
----
-
-## 🎯 My Goals  
-🔹 **Expand expertise in Layer 2 & Zero-Knowledge Proofs**  
-🔹 **Contribute to open-source blockchain initiatives**  
-🔹 **Enhance security and performance in smart contract development**  
+- Dive deeper into **ZKPs** & **Layer 2** technologies
+- Lead contributions to **open-source blockchain protocols**
+- Elevate smart contract security and performance standards
 
 ---
 
-## 📫 Connect with Me  
+## 📬 Let’s Connect
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CristianNavarro89)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-daulton/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CristianNavarro89)
 
 ---
 
-🔥 **Let's build the future of Web3 together!** 🚀  
+🔥 **Let’s build the future of Web3, one block at a time.**
