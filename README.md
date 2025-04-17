@@ -10,8 +10,8 @@ I'm a **Senior Full-Stack & Blockchain Developer** with **10+ years of experienc
 
 ### 💻 Full-Stack Development
 - **Frontend**: React.js, Next.js, Vue.js, TailwindCSS, Material UI
-- **Backend**: Node.js, Express, NestJS, GraphQL, REST
-- **Databases**: PostgreSQL, MongoDB
+- **Backend**: Node.js, PHP, Laravel, PHP Frameworks, Express, Django, NestJS, GraphQL, REST
+- **Databases**: PostgreSQL, MongoDB, Microsoft SQL Server
 - **Infrastructure**: AWS, Firebase, Docker, Kubernetes
 
 ### 🛠️ Blockchain Engineering
