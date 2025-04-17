@@ -1,4 +1,4 @@
-# 👨‍💻 Stas Zhalba – Full-Stack & Blockchain Engineer
+# 👨‍💻 Stas Zhalba – Full-Stack Developer | Blockchain | AI Expert
 
 ## 🚀 Welcome to My GitHub!
 
@@ -7,6 +7,12 @@ I'm a **Senior Full-Stack & Blockchain Developer** with **10+ years of experienc
 ---
 
 ## 🔧 Tech Stack & Specialties
+
+### 💻 Full-Stack Development
+- **Frontend**: React.js, Next.js, Vue.js, TailwindCSS, Material UI
+- **Backend**: Node.js, Express, NestJS, GraphQL, REST
+- **Databases**: PostgreSQL, MongoDB
+- **Infrastructure**: AWS, Firebase, Docker, Kubernetes
 
 ### 🛠️ Blockchain Engineering
 - **Chains**: Ethereum, Solana, Polygon, Binance Smart Chain (BSC)
@@ -17,12 +23,6 @@ I'm a **Senior Full-Stack & Blockchain Developer** with **10+ years of experienc
 
 ### 🧠 AI & Web3
 - AI-integrated fraud detection, predictive analytics for DeFi, and ML-enhanced smart contracts.
-
-### 💻 Full-Stack Development
-- **Frontend**: React.js, Next.js, Vue.js, TailwindCSS, Material UI
-- **Backend**: Node.js, Express, NestJS, GraphQL, REST
-- **Databases**: PostgreSQL, MongoDB
-- **Infrastructure**: AWS, Firebase, Docker, Kubernetes
 
 ### ⚙️ DevOps & Productivity
 - CI/CD (GitHub Actions, CircleCI), Linting, Testing Suites, Git Workflow
